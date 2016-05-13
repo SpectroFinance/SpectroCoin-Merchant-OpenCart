@@ -1,4 +1,4 @@
-SpectroCoin Payment Method
+SpectroCoin Bitcoin Payment Method
 ---------------
 
 This module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [OpenCart](http://www.opencart.com/) to accept [Bitcoin](https://bitcoin.org) payments.
