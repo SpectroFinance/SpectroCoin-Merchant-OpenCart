@@ -1,4 +1,4 @@
-SpectroCoin Payment Method
+SpectroCoin Bitcoin Payment Method
 ---------------
 
 This module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [OpenCart](http://www.opencart.com/) to accept [Bitcoin](https://bitcoin.org) payments.
@@ -22,3 +22,12 @@ This module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [Op
 
 3. Go to Admin -> Extensions -> Payments and enable SpectroCoin module
 4. Enter your Merchant Id, Application Id, Private key.
+
+**INFORMATION** 
+
+1. You can contact us e-mail: info@spectrocoin.com 
+2. You can contact us by phone: +442037697306
+ 
+**TITLES**
+
+SpectroCoin-Bitcoin-Merchant-OpenCart-Plugin-Money-Shop
