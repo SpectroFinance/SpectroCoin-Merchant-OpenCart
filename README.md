@@ -1,6 +1,12 @@
 SpectroCoin Bitcoin Payment Extension
 ---------------
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Repo](https://github.com/SpectroCoin/OpenCart-Bitcoin-Payment-Gateway-Extension)
+
+---------------
+
 This merchant module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [OpenCart](http://www.opencart.com/) to accept [Bitcoin](https://bitcoin.org) payments.
 
 **INSTALLATION**
